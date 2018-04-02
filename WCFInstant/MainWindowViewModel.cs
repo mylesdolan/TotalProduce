@@ -15,9 +15,10 @@ namespace WCFInstant
         {
             ObservableCollection<ViewVM> views = new ObservableCollection<ViewVM>
             {
-                new ViewVM{ ViewDisplay="Students", ViewType = typeof(Items2View), ViewModelType = typeof(Items2ViewModel)},
-              new ViewVM{ ViewDisplay="Grades", ViewType = typeof(ItemsView), ViewModelType = typeof(ItemViewModel)},
+                new ViewVM{ ViewDisplay="Items first table", ViewType = typeof(ItemsView), ViewModelType = typeof(ItemViewModel)},
 
+                new ViewVM{ ViewDisplay="Items2 second table", ViewType = typeof(Items2View), ViewModelType = typeof(Items2ViewModel)},
+              
             };
 
             Views = views;

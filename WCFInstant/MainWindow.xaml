@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WCFInstant"
         mc:Ignorable="d"
-        Title="MainWindowXX" Height="300" Width="300">
+        Title="MainWindow" Height="188.82" Width="378.48">
     <Grid>
        
             <ListView ItemsSource="{Binding Views}" BorderBrush="Transparent" FontSize="12" FontWeight="Bold" 
@@ -21,7 +21,7 @@
             <DataTemplate>
 
                 <Button Command="{Binding Navigate}" 
-                                        BorderThickness="4" Height="32" Width="100" 
+                                        BorderThickness="4" Height="32" Width="150" 
                                        
                                         >
                     <TextBlock Text="{Binding ViewDisplay}" 

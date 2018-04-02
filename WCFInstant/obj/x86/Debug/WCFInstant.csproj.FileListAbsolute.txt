@@ -204,8 +204,6 @@ C:\Total Produce\DXGrid for WPF\WCFInstant\obj\x86\Debug\WCFInstant.csproj.Gener
 C:\Total Produce\DXGrid for WPF\WCFInstant\obj\x86\Debug\WCFInstant.exe
 C:\Total Produce\DXGrid for WPF\WCFInstant\obj\x86\Debug\WCFInstant.pdb
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\bin\Debug\WCFInstant.exe.config
-C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.exe
-C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.pdb
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\bin\Debug\WCFInstant.exe
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\bin\Debug\WCFInstant.pdb
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\bin\Debug\CommonServiceLocator.dll
@@ -302,7 +300,6 @@ C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\App.baml
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\MainWindow.g.cs
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\Views\Items2View.g.cs
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\Views\ItemsView.g.cs
-C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\StartUpTest.g.cs
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\App.g.cs
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant_MarkupCompile.cache
@@ -310,7 +307,8 @@ C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant_Mar
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\MainWindow.baml
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\Views\Items2View.baml
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\Views\ItemsView.baml
-C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\StartUpTest.baml
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.g.resources
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.Properties.Resources.resources
 C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.csproj.GenerateResource.Cache
+C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.exe
+C:\Users\Myles\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.pdb

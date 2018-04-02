@@ -148,6 +148,5 @@ C:\Users\Myles\Source\Repos\TotalProduce\WCFService\bin\de\DevExpress.Xpf.Core.v
 C:\Users\Myles\Source\Repos\TotalProduce\WCFService\bin\es\DevExpress.Xpf.Core.v17.2.resources.dll
 C:\Users\Myles\Source\Repos\TotalProduce\WCFService\bin\ja\DevExpress.Xpf.Core.v17.2.resources.dll
 C:\Users\Myles\Source\Repos\TotalProduce\WCFService\bin\ru\DevExpress.Xpf.Core.v17.2.resources.dll
-C:\Users\Myles\Source\Repos\TotalProduce\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
 C:\Users\Myles\Source\Repos\TotalProduce\WCFService\obj\Debug\WCFService.dll
 C:\Users\Myles\Source\Repos\TotalProduce\WCFService\obj\Debug\WCFService.pdb
