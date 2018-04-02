@@ -1,0 +1,102 @@
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\WCFService.dll.config
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\WCFService.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\WCFService.pdb
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Data.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Mvvm.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Xpf.CodeView.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Xpf.Core.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Images.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.CodeParser.v17.2.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Data.v17.2.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Mvvm.v17.2.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\DevExpress.Xpf.Core.v17.2.xml
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\de\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\es\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ja\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\ru\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\obj\Debug\WCFService.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\obj\Debug\WCFService.pdb
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Myles\Documents\Samples\DXGrid for WPF\17.2.6\E3866\E3866\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Total Produce\DXGrid for WPF\WCFService\bin\WCFService.dll.config
+C:\Total Produce\DXGrid for WPF\WCFService\bin\WCFService.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\WCFService.pdb
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Data.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Mvvm.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Office.v17.2.Core.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Xpf.CodeView.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Xpf.Core.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Images.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.CodeParser.v17.2.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Data.v17.2.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Mvvm.v17.2.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Office.v17.2.Core.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\DevExpress.Xpf.Core.v17.2.xml
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\de\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\es\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ja\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\bin\ru\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Total Produce\DXGrid for WPF\WCFService\obj\Debug\WCFService.dll
+C:\Total Produce\DXGrid for WPF\WCFService\obj\Debug\WCFService.pdb
+C:\Total Produce\DXGrid for WPF\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
