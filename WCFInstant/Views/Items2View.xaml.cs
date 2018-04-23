@@ -11,6 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using WCFInstant.ServiceReference1;
+using GalaSoft.MvvmLight.Messaging;
 
 namespace WCFInstant
 {
@@ -20,8 +21,8 @@ namespace WCFInstant
     public partial class Items2View : Window
     {
         public static readonly DependencyProperty EntitiesProperty =
-             //  DependencyProperty.Register("Entities", typeof(DatabaseEntities), typeof(MainWindow), new UIPropertyMetadata(null));
-             DependencyProperty.Register("Entities", typeof(DatabaseEntities), typeof(Items2View), new UIPropertyMetadata(null));
+          //   DependencyProperty.Register("Entities", typeof(DatabaseEntities), typeof(MainWindow), new UIPropertyMetadata(null));
+         DependencyProperty.Register("Entities", typeof(DatabaseEntities), typeof(Items2View), new UIPropertyMetadata(null));
         public DatabaseEntities Entities
         {
             get { return (DatabaseEntities)GetValue(EntitiesProperty); }
@@ -29,11 +30,28 @@ namespace WCFInstant
         }
         public Items2View()
         {
-            Entities = new DatabaseEntities(new Uri("http://localhost:62700/WcfDataService.svc/"));
-            DataContext = this;
+            Messenger.Default.Register<DatabaseEntities>(this, (action) => DbProp(action));
+
+            // Entities = new DatabaseEntities(new Uri("http://localhost:62700/WcfDataService.svc/"));
+            //DataContext = this;
+          //  InitializeComponent();
+           // helper.PropertiesList.Add("Id");
+            //helper.PropertiesList.Add("Name");
+            DataContext = new Items2ViewModel();
             InitializeComponent();
             helper.PropertiesList.Add("Id");
             helper.PropertiesList.Add("Name");
+          
+
+
         }
+
+
+        public void DbProp(DatabaseEntities x) {
+            this.Entities = x;
+            
+        }
+
+
     }
 }

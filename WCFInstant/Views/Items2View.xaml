@@ -21,6 +21,10 @@
                     <Grid.RowDefinitions>
                         <RowDefinition/>
                         <RowDefinition/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
                     <TextBlock Text="ID:" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0" Margin="0,0,6,4" />
                     <dxe:TextEdit x:Name="txtID" Grid.Row="0" Grid.Column="1" EditValue="{Binding Path=Id, Mode=TwoWay}" Margin="0,0,0,4" />
@@ -34,10 +38,16 @@
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <dxg:GridControl Grid.Row="0" Name="grid" SelectionMode="Row">
             <i:Interaction.Behaviors>
+
+                <!--  <local:Items2ViewModel x:Name="helper"-->
+
                 <crud:WCFInstantModeCRUDBehavior x:Name="helper"
+     
                                                   EntityObjectType="{x:Type sr:Itemnew}"
                                                   DataSource="{Binding ElementName=wcfInstantSource}"
                                                   NewRowForm="{StaticResource ResourceKey=EditRecordTemplate}"
@@ -45,6 +55,9 @@
                                                   AllowKeyDownActions="True"
                                                   PrimaryKey="Id"
                                                   DataServiceContext="{Binding DataSource.DataServiceContext, RelativeSource={RelativeSource Self}}"/>
+
+
+
             </i:Interaction.Behaviors>
             <dxg:GridControl.Columns>
                 <dxg:GridColumn FieldName="Id">
@@ -66,6 +79,8 @@
             <Button Height="22" Width="60" Command="{Binding Path=NewRowCommand, ElementName=helper}">Add</Button>
             <Button Height="22" Width="60" Command="{Binding Path=RemoveRowCommand, ElementName=helper}" Margin="6,0,6,0">Remove</Button>
             <Button Height="22" Width="60" Command="{Binding Path=EditRowCommand, ElementName=helper}">Edit</Button>
+            <Button Height="22" Width="60" Command="{Binding YellowCommand}">Yellow</Button>
+          <!--  <Button Height="22" Width="60" Command="{Binding Path=YellowCommand, ElementName=helper}">Yellow</Button>-->
         </StackPanel>
         <dxc:WcfInstantFeedbackDataSource Name="wcfInstantSource" KeyExpression="Id" DataServiceContext="{Binding Entities}" Query="{Binding Entities.Itemnews}"/>
     </Grid>

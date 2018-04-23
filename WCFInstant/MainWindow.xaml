@@ -5,10 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WCFInstant"
         mc:Ignorable="d"
-        Title="MainWindow" Height="188.82" Width="378.48">
+        Title="MainWindow" Height="300" Width="600">
     <Grid>
-       
-            <ListView ItemsSource="{Binding Views}" BorderBrush="Transparent" FontSize="12" FontWeight="Bold" 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListView ItemsSource="{Binding Views}" BorderBrush="Transparent" FontSize="12" FontWeight="Bold" 
                           ScrollViewer.CanContentScroll="False"
                           >
                 <ListView.ItemsPanel>
@@ -20,21 +27,25 @@
             <ListView.ItemTemplate>
             <DataTemplate>
 
-                <Button Command="{Binding Navigate}" 
+
+
+                    <Button Grid.Row="3"  Grid.Column="1" Command="{Binding Navigate}" 
                                         BorderThickness="4" Height="32" Width="150" 
                                        
                                         >
-                    <TextBlock Text="{Binding ViewDisplay}" 
+                        <TextBlock Text="{Binding ViewDisplay}" 
                                            TextAlignment="Center" 
                                             
                                            />
-                </Button>
-            </DataTemplate>
+                    </Button>
+                </DataTemplate>
         </ListView.ItemTemplate>
              
         </ListView>
+     <Button x:Name="hello" Height="30" Grid.Row="4" Grid.Column="0">ho</Button>
+        <!--   
 
-        <Frame x:Name="EditFrame" Height="300" Grid.Row="3" Grid.Column="1" NavigationUIVisibility="Automatic"/>
-
+        <Frame x:Name="EditFrame" Height="300" Grid.Row="5" Grid.Column="1" NavigationUIVisibility="Automatic"/>
+-->
     </Grid>
 </Window>

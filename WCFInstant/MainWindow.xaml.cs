@@ -24,14 +24,24 @@ namespace WCFInstant
             InitializeComponent();
             Style = (Style)FindResource(typeof(Window));
             Messenger.Default.Register<NavigateMessage>(this, (action) => ShowUserControl(action));
+            Messenger.Default.Register<int>(this, (action) => ReceiveMessageChangeButton2Red(action));
             this.DataContext = new MainWindowViewModel();
+         //   ReceiveMessageChangeButton2Red(20);
         }
 
         private void ShowUserControl(NavigateMessage nm)
         {
             // EditFrame.Content = nm.View;
             nm.View.ShowDialog();
+            
 
         }
+
+        private void ReceiveMessageChangeButton2Red(int fsize)
+        {
+            hello.FontSize = fsize;
+            
+        }
+
     }
 }

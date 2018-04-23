@@ -158,6 +158,9 @@
       <DependentUpon>Reference.datasvcmap</DependentUpon>
     </Compile>
     <Compile Include="Service References\ServiceReference1\WCFServerModeCRUDBehavior.cs" />
+    <Compile Include="StartUpTest.xaml.cs">
+      <DependentUpon>StartUpTest.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -178,6 +181,10 @@
       <DependentUpon>ItemsView.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="StartUpTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -199,7 +206,9 @@
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <None Include="Properties\DataSources\WCFInstant.ServiceReference1.DatabaseEntities.datasource" />
+    <None Include="Properties\DataSources\WCFInstant.ServiceReference1.DatabaseEntities.datasource">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -219,6 +228,7 @@
     <None Include="Service References\ServiceReference1\Reference.datasvcmap">
       <Generator>DataServiceClientGenerator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
