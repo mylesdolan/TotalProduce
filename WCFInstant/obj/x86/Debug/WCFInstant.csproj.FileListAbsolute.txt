@@ -315,3 +315,6 @@ C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\bin\Debug\de\DevExpres
 C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\bin\Debug\es\DevExpress.Xpf.Docking.v17.2.resources.dll
 C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\bin\Debug\ja\DevExpress.Xpf.Docking.v17.2.resources.dll
 C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\bin\Debug\ru\DevExpress.Xpf.Docking.v17.2.resources.dll
+E:\TotalProduce\WCFInstant\bin\Debug\WCFInstant.exe.config
+E:\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.exe
+E:\TotalProduce\WCFInstant\obj\x86\Debug\WCFInstant.pdb

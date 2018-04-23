@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\obj\x86\Debug\
+E:\TotalProduce\WCFInstant\obj\x86\Debug\
 WCFInstant
 none
 false
 DEBUG;TRACE
-C:\Users\myles.dolan\Source\Repos\TotalProduce\WCFInstant\App.xaml
+E:\TotalProduce\WCFInstant\App.xaml
 4834032602
 
-211832560967
-367334191
+21-1926646002
+36625477019
 MainWindow.xaml;Views\Items2View.xaml;Views\ItemsView.xaml;StartUpTest.xaml;
 
-False
+True
 
